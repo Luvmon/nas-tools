@@ -1,4 +1,4 @@
-这可能是比较接近作者删库前的版本，可能已经删除了Jackett和Aria2下载或者有关BT的一些功能。Fork一下。
+这可能是比较接近作者删库前的版本，可能已经删除了Jackett和Aria2下载或者有关BT的一些功能。Fork一下。2.9版本有BT
 
 
 ![logo-blue](https://user-images.githubusercontent.com/51039935/197520391-f35db354-6071-4c12-86ea-fc450f04bc85.png)
